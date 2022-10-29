@@ -27,12 +27,12 @@ Praktikum 5
 
 ![gambar4](gambar_JS/gambarjs4.png)
 
-- Pemakaian method dalam objek
-
+- Pemakaian method dalam objek pada browser
 ![gambar5](gambar_JS/gambarjs5.png)
 
 
 - Tampilan pemakain method dalam objek pada browser
+
 ![gambar6](gambar_JS/gambarjs6.png)
 
 
@@ -58,10 +58,12 @@ Praktikum 5
 
 
 - Tampilan pada browser awal
+
 ![gambar12](gambar_JS/gambarjs12.png)
 
 
 - Tampilan setelah kita klick pilihan aritmetich
+
 ![gambar13](gambar_JS/gambarjs13.png)
 
 
